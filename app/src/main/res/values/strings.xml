@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RC Translator</string>
+    <string name="select_source_language">Select Source Language</string>
+    <string name="select_target_language">Select Target Language</string>
+    <string name="speak_or_type">Speak or type your text</string>
+    <string name="tap_to_speak">Tap to Speak</string>
+    <string name="translate">Translate</string>
+    <string name="translated_text">Translated Text</string>
+    <string name="listening">Listening…</string>
+    <string name="processing">Processing…</string>
+    <string name="error_no_text">Please enter or speak some text</string>
+    <string name="error_translation">Translation failed. Please try again.</string>
+    <string name="error_speech">Speech recognition failed. Please try again.</string>
+    <string name="permission_required">Microphone permission is required for voice input</string>
+    <string name="swap_languages">Swap Languages</string>
+    <string name="clear">Clear</string>
+</resources>

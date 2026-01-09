@@ -1,0 +1,33 @@
+package com.rctranslator.app.model
+
+enum class Language(val code: String, val displayName: String) {
+    ENGLISH("en", "English"),
+    SPANISH("es", "Spanish"),
+    FRENCH("fr", "French"),
+    GERMAN("de", "German"),
+    ITALIAN("it", "Italian"),
+    PORTUGUESE("pt", "Portuguese"),
+    RUSSIAN("ru", "Russian"),
+    JAPANESE("ja", "Japanese"),
+    KOREAN("ko", "Korean"),
+    CHINESE("zh", "Chinese"),
+    ARABIC("ar", "Arabic"),
+    HINDI("hi", "Hindi"),
+    TURKISH("tr", "Turkish"),
+    DUTCH("nl", "Dutch"),
+    POLISH("pl", "Polish"),
+    SWEDISH("sv", "Swedish"),
+    NORWEGIAN("no", "Norwegian"),
+    DANISH("da", "Danish"),
+    FINNISH("fi", "Finnish"),
+    GREEK("el", "Greek"),
+    CZECH("cs", "Czech"),
+    ROMANIAN("ro", "Romanian"),
+    HUNGARIAN("hu", "Hungarian"),
+    THAI("th", "Thai"),
+    VIETNAMESE("vi", "Vietnamese"),
+    INDONESIAN("id", "Indonesian"),
+    MALAY("ms", "Malay"),
+    HEBREW("he", "Hebrew"),
+    UKRAINIAN("uk", "Ukrainian")
+}
